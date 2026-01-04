@@ -2,7 +2,7 @@
 
 This repository contains the **authoritative, versioned text** of all official agreements and policies for the **WRDLNKDN** project.
 
-WRDLNKDN is operated by **Drake Ent LLC**, doing business as **WRDLNKDN**.
+WRDLNKDN is operated by **Drake Svc LLC**, doing business as **WRDLNKDN**.
 
 Documents in this repository define the terms under which contributors participate and how expenses are handled.
 

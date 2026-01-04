@@ -22,11 +22,11 @@ Reimbursements are intended to qualify as **accountable plan reimbursements** an
 
 ## DBA and Payment Source
 
-WRDLNKDN operates as a **doing business as (DBA)** name of **Drake Ent LLC**.
+WRDLNKDN operates as a **doing business as (DBA)** name of **Drake Svc LLC**.
 
 WRDLNKDN is not a separate legal entity and does not maintain its own bank account.
 
-All approved reimbursements are issued by **Drake Ent LLC** from its business account.
+All approved reimbursements are issued by **Drake Svc LLC** from its business account.
 
 ---
 
