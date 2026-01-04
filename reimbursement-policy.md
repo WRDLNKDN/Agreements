@@ -1,6 +1,6 @@
 # WRDLNKDN Expense Reimbursement Policy
 
-**Version:** 1.0  
+**Version:** 1.1  
 **Last updated:** 2026-01-04  
 
 > **Source of Truth**  
