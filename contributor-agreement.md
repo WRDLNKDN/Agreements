@@ -12,7 +12,7 @@
 
 ## Parties
 
-This Contributor Agreement (“Agreement”) governs voluntary contributions made to **WRDLNKDN**, a community operated by **Drake Ent LLC**, doing business as **WRDLNKDN** (“Operator”).
+This Contributor Agreement ("Agreement") governs voluntary contributions made to **WRDLNKDN**, a community operated by **Drake Svc LLC**, doing business as **WRDLNKDN** ("Operator").
 
 This Agreement applies to any individual acting as a **Contributor**.
 
@@ -48,7 +48,7 @@ Nothing in this Agreement creates an employment, contractor, partnership, joint 
 
 ## Ownership and Authority
 
-WRDLNKDN is operated by **Drake Ent LLC**.
+WRDLNKDN is operated by **Drake Svc LLC**.
 
 Contributors do not receive:
 
@@ -110,7 +110,7 @@ Contributors agree to maintain the confidentiality of non-public information obt
 
 Contributors have no authority to:
 
-- Bind Drake Ent LLC  
+- Bind Drake Svc LLC  
 - Enter contracts  
 - Incur expenses  
 - Make commitments on behalf of WRDLNKDN  
@@ -129,7 +129,7 @@ Upon termination, Contributors must stop representing themselves as affiliated w
 
 ## Governing Law
 
-This Agreement is governed by the laws of the jurisdiction in which Drake Ent LLC is organized.
+This Agreement is governed by the laws of the jurisdiction in which Drake Svc LLC is organized.
 
 ---
 
