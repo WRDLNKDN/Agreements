@@ -1,72 +1,114 @@
-# WRDLNKDN Agreements Repository
+# WRDLNKDN Agreements
 
-This repository contains the **authoritative, versioned text** of all official agreements and policies for the **WRDLNKDN** project.
+This repository exists to host the authoritative agreements and policies that
+govern participation in the WRDLNKDN community.
 
-WRDLNKDN is operated by **Drake Svc LLC**, doing business as **WRDLNKDN**.
-
-Documents in this repository define the terms under which contributors participate and how expenses are handled.
+All agreements and policies are maintained in this repository’s **GitHub Wiki**.
+The wiki is the single source of truth.
 
 ---
 
-## Contents
+## Authoritative Agreements and Policies
 
-- `contributor-agreement.md`  
-  The authoritative version of the WRDLNKDN Contributor Agreement.
+The following documents are maintained as wiki pages and are authoritative:
 
-- `reimbursement-policy.md`  
-  The authoritative version of the WRDLNKDN Expense Reimbursement Policy.
+- **Contributor Agreement**  
+  https://github.com/WRDLNKDN/Agreements/wiki/Contributor-Agreement
 
-- `templates/`  
-  Convenience templates in DOCX format for signing or reference.  
-  Templates must reflect the authoritative Markdown versions.
+- **Expense Reimbursement Policy**  
+  https://github.com/WRDLNKDN/Agreements/wiki/Reimbursement-Policy
+
+Additional agreements or policies may be added to the wiki over time.
 
 ---
 
 ## Source of Truth
 
-The Markdown (`.md`) files in this repository are the **source of truth**.
-
-In the event of a conflict between:
-- a Markdown file and a template, or  
-- a Markdown file and any other representation of an agreement  
-
-the Markdown file in this repository controls.
-
-Signed agreements and reimbursement records are **not stored in this repository**.
+- The **GitHub Wiki** for this repository is the authoritative location for all
+  WRDLNKDN agreements and policies.
+- No Markdown files, templates, or downloadable documents in the repository tree
+  are authoritative.
+- In the event of any conflict, the wiki versions control.
 
 ---
 
-## How to Use This Repository
+## Relationship to Other Repositories
 
-- Refer to the Markdown files for the current, authoritative language.
-- Use the templates in `/templates` when a signed or human-friendly format is needed.
-- Follow the instructions in each document for signing or acknowledgment where applicable.
-
-Contributor onboarding, reimbursement requests, and governance context are documented in the **WRDLNKDN WebDev Wiki**.
-
----
-
-## Signed Agreements
-
-Signed Contributor Agreements should be emailed to **wrdlnkdn@gmail.com**.
-
-Executed agreements contain personal information and are stored privately.  
-Signed copies are not kept in GitHub.
+- The **WRDLNKDN/WebDev** repository contains project code, documentation, and
+  operational guidance.
+- WebDev documentation may link to agreements and policies hosted here but does
+  not duplicate or restate them.
 
 ---
 
-## Proposing Changes
+## Acceptance and Records
 
-- Propose changes via pull request.
-- Keep changes narrowly scoped and clearly explained.
-- Legal or structural changes should be discussed before merging.
-
-Each document may include additional guidance specific to that agreement or policy.
+- Acceptance of agreements is recorded by email, as described in the applicable
+  agreement.
+- Signed acknowledgements, reimbursement records, and receipts are maintained
+  privately by the operator and are not stored in GitHub.
 
 ---
 
-## Questions
+## Contact
 
-Questions about these agreements or policies should be directed to:
+For questions related to agreements or policies, contact:
+
+**wrdlnkdn@gmail.com**
+# WRDLNKDN Agreements
+
+This repository exists to host the authoritative agreements and policies that
+govern participation in the WRDLNKDN community.
+
+All agreements and policies are maintained in this repository’s **GitHub Wiki**.
+The wiki is the single source of truth.
+
+---
+
+## Authoritative Agreements and Policies
+
+The following documents are maintained as wiki pages and are authoritative:
+
+- **Contributor Agreement**  
+  https://github.com/WRDLNKDN/Agreements/wiki/Contributor-Agreement
+
+- **Expense Reimbursement Policy**  
+  https://github.com/WRDLNKDN/Agreements/wiki/Reimbursement-Policy
+
+Additional agreements or policies may be added to the wiki over time.
+
+---
+
+## Source of Truth
+
+- The **GitHub Wiki** for this repository is the authoritative location for all
+  WRDLNKDN agreements and policies.
+- No Markdown files, templates, or downloadable documents in the repository tree
+  are authoritative.
+- In the event of any conflict, the wiki versions control.
+
+---
+
+## Relationship to Other Repositories
+
+- The **WRDLNKDN/WebDev** repository contains project code, documentation, and
+  operational guidance.
+- WebDev documentation may link to agreements and policies hosted here but does
+  not duplicate or restate them.
+
+---
+
+## Acceptance and Records
+
+- Acceptance of agreements is recorded by email, as described in the applicable
+  agreement.
+- Signed acknowledgements, reimbursement records, and receipts are maintained
+  privately by the operator and are not stored in GitHub.
+
+---
+
+## Contact
+
+For questions related to agreements or policies, contact:
 
 **wrdlnkdn@gmail.com**
